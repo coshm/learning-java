@@ -41,6 +41,7 @@ public class I_ReversingWords {
 	 */
 	public static boolean isPalindrome(String word) {
 		// Your code here
+		return false;
 	}
 
 	/**
@@ -50,6 +51,7 @@ public class I_ReversingWords {
 	 */
 	public static String reverseString(String string) {
 		// Your code here
+		return "";
 	}
 
 }
